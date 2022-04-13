@@ -100,7 +100,7 @@ It's recommended that you've gone through the [hardhat getting started documenta
 
 1. Clone this repo:
 ```
-git clone https://github.com/PatrickAlphaC/dao-template
+git clone https://github.com/parsaaba/DAO_V1
 cd dao-template
 ```
 2. Install dependencies
@@ -193,7 +193,6 @@ Deploy your ERC20 and [make proposals in snapshot](https://docs.snapshot.org/pro
 - [] Add Upgradeability examples with the UUPS proxy pattern
 - [] Add Chainlink Oracle Integration with Snapsafe example
 
-See the [open issues](https://github.com/PatrickAlphaC/dao-template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -230,7 +229,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Hardhat - [@HardhatHQ](https://twitter.com/HardhatHQ)
-Patrick Collins - [@patrickalphac](https://twitter.com/patrickalphac)
+Parsa Ba - [@cryptopba](https://twitter.com/cryptopba)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
